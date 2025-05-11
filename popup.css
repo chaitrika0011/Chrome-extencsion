@@ -1,0 +1,37 @@
+.container {
+  width: 300px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 18px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.stats {
+  margin-bottom: 20px;
+}
+
+.productive-time, .unproductive-time {
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
