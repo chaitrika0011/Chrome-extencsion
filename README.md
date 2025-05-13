@@ -46,4 +46,4 @@ A Chrome extension that helps users track and analyze their web browsing habits 
 - Track time spent on productive vs unproductive websites
 
 Output:
-
+![Image](https://github.com/user-attachments/assets/fd52b179-f0ea-4569-9eee-87f6c4bd09da)
